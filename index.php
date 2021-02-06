@@ -10,11 +10,11 @@
     <div class="wrapper">
       <nav><!--it should reamin always the same, we have attached a css file only for styling the navbar-->
         <ul>
-          <li><a class="nav_elements" href="index.html"><img src="files/homelogo.png" alt="" width="50px" height="48px"></a></li>
+          <li><a class="nav_elements" href="index.php"><img src="files/homelogo.png" alt="" width="50px" height="48px"></a></li>
           <li><a class="nav_elements" href="discover.php">About us</a></li>
           <li><a class="nav_elements" href="blog.php">Find Blogs</a></li>
           <li><a class="nav_elements" href="signup.php">Sign up</a></li>
-          <li><a class="nav_elements" href="login.html">Login</a></li>
+          <li><a class="nav_elements" href="login.php">Login</a></li>
         </ul>
       </nav>
       <h1 class="writings">Hello,</h1>

@@ -12,18 +12,18 @@
 
       <nav><!--it should reamin always the same, we have attached a css file only for styling the navbar-->
         <ul>
-          <li><a class="nav_elements" href="index.html"><img src="files/homelogo.png" alt="" width="50px" height="48px"></a></li>
+          <li><a class="nav_elements" href="index.php"><img src="files/homelogo.png" alt="" width="50px" height="48px"></a></li>
           <li><a class="nav_elements" href="discover.php">About us</a></li>
           <li><a class="nav_elements" href="blog.php">Find Blogs</a></li>
           <li><a class="nav_elements" href="signup.php">Sign up</a></li>
-          <li><a class="nav_elements" href="login.html">Login</a></li>
+          <li><a class="nav_elements" href="login.php">Login</a></li>
         </ul>
       </nav>
 
       <div class="form">
         <h1>sign up form</h1>
         <br>
-        <form class="signup" action="index.html" method="post">
+        <form class="signup" action="signup.inc.php" method="post">
           <input type="text" name="" value="" placeholder="name">
           <input type="text" name="" value="" placeholder="surname">
           <input type="text" name="" value="" placeholder="email">
