@@ -7,6 +7,7 @@
     <title>PHP index page</title>
   </head>
   <body>
+    <div class="wrapper">
       <nav><!--it should reamin always the same, we have attached a css file only for styling the navbar-->
         <a class="nav_elements" href="index.php"></a><img src="" alt="">
         <ul>
