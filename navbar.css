@@ -36,18 +36,3 @@ nav ul{
   text-align: center;
   font-weight: bold;
 }
-.writings{
-  text-align: center;
-}
-.section1{
-  display: flex;
-  justify-content: space-between;
-  flex-wrap: wrap;
-}
-.section1 div{
-  width: 200px;
-  height: 200px;
-  border: 1px solid black;
-  margin:20px;
-  background-color: lightgrey;
-}
